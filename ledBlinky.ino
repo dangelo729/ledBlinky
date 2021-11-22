@@ -1,6 +1,6 @@
 
-int ledPin = 22
-             int delayTime = 1000
+int ledPin = 22;
+int delayTime = 2000;
 
 void setup() {
   pinMode(ledPin, OUTPUT);
